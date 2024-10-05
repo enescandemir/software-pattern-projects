@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "atmProject_dependency/1.0.0": {
+        "runtime": {
+          "atmProject_dependency.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "atmProject_dependency/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\bilal\source\repos\atmProject_dependency\bin\Debug\net6.0\atmProject_dependency.exe
+C:\Users\bilal\source\repos\atmProject_dependency\bin\Debug\net6.0\atmProject_dependency.deps.json
+C:\Users\bilal\source\repos\atmProject_dependency\bin\Debug\net6.0\atmProject_dependency.runtimeconfig.json
+C:\Users\bilal\source\repos\atmProject_dependency\bin\Debug\net6.0\atmProject_dependency.dll
+C:\Users\bilal\source\repos\atmProject_dependency\bin\Debug\net6.0\atmProject_dependency.pdb
+C:\Users\bilal\source\repos\atmProject_dependency\obj\Debug\net6.0\atmProject_dependency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\atmProject_dependency\obj\Debug\net6.0\atmProject_dependency.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\atmProject_dependency\obj\Debug\net6.0\atmProject_dependency.AssemblyInfo.cs
+C:\Users\bilal\source\repos\atmProject_dependency\obj\Debug\net6.0\atmProject_dependency.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\atmProject_dependency\obj\Debug\net6.0\atmProject_dependency.dll
+C:\Users\bilal\source\repos\atmProject_dependency\obj\Debug\net6.0\refint\atmProject_dependency.dll
+C:\Users\bilal\source\repos\atmProject_dependency\obj\Debug\net6.0\atmProject_dependency.pdb
+C:\Users\bilal\source\repos\atmProject_dependency\obj\Debug\net6.0\atmProject_dependency.genruntimeconfig.cache
+C:\Users\bilal\source\repos\atmProject_dependency\obj\Debug\net6.0\ref\atmProject_dependency.dll
