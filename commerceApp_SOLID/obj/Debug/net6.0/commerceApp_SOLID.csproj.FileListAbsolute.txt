@@ -1,0 +1,14 @@
+C:\Users\bilal\source\repos\commerceApp_SOLID\bin\Debug\net6.0\commerceApp_SOLID.exe
+C:\Users\bilal\source\repos\commerceApp_SOLID\bin\Debug\net6.0\commerceApp_SOLID.deps.json
+C:\Users\bilal\source\repos\commerceApp_SOLID\bin\Debug\net6.0\commerceApp_SOLID.runtimeconfig.json
+C:\Users\bilal\source\repos\commerceApp_SOLID\bin\Debug\net6.0\commerceApp_SOLID.dll
+C:\Users\bilal\source\repos\commerceApp_SOLID\bin\Debug\net6.0\commerceApp_SOLID.pdb
+C:\Users\bilal\source\repos\commerceApp_SOLID\obj\Debug\net6.0\commerceApp_SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\commerceApp_SOLID\obj\Debug\net6.0\commerceApp_SOLID.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\commerceApp_SOLID\obj\Debug\net6.0\commerceApp_SOLID.AssemblyInfo.cs
+C:\Users\bilal\source\repos\commerceApp_SOLID\obj\Debug\net6.0\commerceApp_SOLID.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\commerceApp_SOLID\obj\Debug\net6.0\commerceApp_SOLID.dll
+C:\Users\bilal\source\repos\commerceApp_SOLID\obj\Debug\net6.0\refint\commerceApp_SOLID.dll
+C:\Users\bilal\source\repos\commerceApp_SOLID\obj\Debug\net6.0\commerceApp_SOLID.pdb
+C:\Users\bilal\source\repos\commerceApp_SOLID\obj\Debug\net6.0\commerceApp_SOLID.genruntimeconfig.cache
+C:\Users\bilal\source\repos\commerceApp_SOLID\obj\Debug\net6.0\ref\commerceApp_SOLID.dll
