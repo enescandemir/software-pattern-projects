@@ -1,0 +1,14 @@
+C:\Users\bilal\source\repos\commerceApp_designPatterns\bin\Debug\net6.0\commerceApp_designPatterns.exe
+C:\Users\bilal\source\repos\commerceApp_designPatterns\bin\Debug\net6.0\commerceApp_designPatterns.deps.json
+C:\Users\bilal\source\repos\commerceApp_designPatterns\bin\Debug\net6.0\commerceApp_designPatterns.runtimeconfig.json
+C:\Users\bilal\source\repos\commerceApp_designPatterns\bin\Debug\net6.0\commerceApp_designPatterns.dll
+C:\Users\bilal\source\repos\commerceApp_designPatterns\bin\Debug\net6.0\commerceApp_designPatterns.pdb
+C:\Users\bilal\source\repos\commerceApp_designPatterns\obj\Debug\net6.0\commerceApp_designPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\commerceApp_designPatterns\obj\Debug\net6.0\commerceApp_designPatterns.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\commerceApp_designPatterns\obj\Debug\net6.0\commerceApp_designPatterns.AssemblyInfo.cs
+C:\Users\bilal\source\repos\commerceApp_designPatterns\obj\Debug\net6.0\commerceApp_designPatterns.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\commerceApp_designPatterns\obj\Debug\net6.0\commerceApp_designPatterns.dll
+C:\Users\bilal\source\repos\commerceApp_designPatterns\obj\Debug\net6.0\refint\commerceApp_designPatterns.dll
+C:\Users\bilal\source\repos\commerceApp_designPatterns\obj\Debug\net6.0\commerceApp_designPatterns.pdb
+C:\Users\bilal\source\repos\commerceApp_designPatterns\obj\Debug\net6.0\commerceApp_designPatterns.genruntimeconfig.cache
+C:\Users\bilal\source\repos\commerceApp_designPatterns\obj\Debug\net6.0\ref\commerceApp_designPatterns.dll
